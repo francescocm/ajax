@@ -1,0 +1,26 @@
+[
+    {
+        "resultado": "0 a 4",
+        "clasificación": "Manco"
+    },
+    {
+        "resultado": "4 a 6",
+        "clasificación": "Amateur"
+    },
+    {
+        "resultado": "6 a 7",
+        "clasificación": "Semi-Profesional"
+    },
+    {
+        "resultado": "7 a 8",
+        "clasificación": "Profesional"
+    },
+    {
+        "resultado": "8 a 9",
+        "clasificación": "Clase Mundial"
+    },
+    {
+        "resultado": "9 a 10",
+        "clasificación": "Leyenda"
+    }
+]
